@@ -1,6 +1,6 @@
 # awesome_player
 
-A new Flutter project.
+A new Flutter project (not complete )
 
 ## Getting Started
 
